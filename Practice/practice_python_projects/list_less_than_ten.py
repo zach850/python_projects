@@ -10,3 +10,6 @@ def less_than_ten():
             print(new_list)
             
 less_than_ten()
+
+#one line of code 
+# print( [ x for x in a if x<5 ] )
